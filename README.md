@@ -23,25 +23,27 @@ persona natural.
 ## Metodología
 
 - En este directorio encontrarán dos archivos de Python:
-    1. "funciones.py" cotiene las funciones en blanco a implementar.
-    2. "pruebas.py" contiene pruebas que le ayudarán a validar el correcto
+    1. "funciones.py" contiene las funciones en blanco a implementar.
+    2. "pruebas.py" contiene las pruebas que le ayudarán a validar el correcto
 funcionamiento de su implementación.
 
 - Realice un fork al repositorio en Github.
 
-- En sus grupos asignen igual cantidad a los roles de tal forma que
-todos participen de todas las fases:
+- Cree una rama en su repositorio para:
+    -Desarrollo
+    -Documentación
+    -Pruebas
+
+- En grupo dividan el número de funciones de tal forma que cada uno aporte en las fuciones los siguientes roles diferentes:
     - Documentador
     - Pruebas
     - Desarollador
 
-- Complete todos los campos de todas las funciones teniendo en cuenta
-la receta para la elaboración de una función (Recuerde reutilizar las
-funciones).
+- Documente cada una de las funciones incluyendo las pruebas
 
-- Valide el funcionamiento con las pruebas de su documentación.
+- Desarrolle todas las funciones teniendo en cuenta la receta para la elaboración de una función (Recuerde reutilizar las funciones).
 
-- Realice las lecturas pruebas unitarias.
+- Realice las lecturas relacionadas con pruebas unitarias.
 
     - [Basic Unit Testing](https://android.jlelse.eu/basics-of-unit-testing-affdd2273310)
     - [Unit testing](https://hackernoon.com/my-honest-opinion-about-unit-testing-84eee5e893ad)
@@ -49,7 +51,8 @@ funciones).
 ](https://www.youtube.com/watch?v=6tNS--WetLI)
     - [Writing Tests in python](https://docs.python-guide.org/writing/tests/)
 
-- Valide sus funciones contra las pruebas entregadas,
+- Valide el funcionamiento con las pruebas.
 
-- Suba las capturas de las evidencias de commit de todos los integrantes del grupo
-en el aula virtual, asi como, el codigo fuente de su solución.
+- Valide sus funciones contra las pruebas realizadas
+
+- Suba las capturas de las evidencias de commit de todos los integrantes del grupo en un iforme de desarrollo del proyecto al aula virtual, asi como, el código fuente de su solución.
